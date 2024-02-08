@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-![](images/hey.jpg)
+![](images/say-hey.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
