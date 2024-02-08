@@ -7,7 +7,7 @@
 -->
 
 
-### Hi, I'm Shakur but you can call me Shak!
+### Hi, I'm Shakur but you can call me Shak :D
 ![](images/say-hey.jpg)
 
 # 💫 About Me:
