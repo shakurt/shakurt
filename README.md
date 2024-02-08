@@ -7,7 +7,7 @@
 -->
 
 
-### Hi, I'm Shakur but you can call me Shak :D
+### Hi, call me Shak :D
 ![](images/say-hey.jpg)
 
 # 💫 About Me:
@@ -18,6 +18,9 @@
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanshakurt@gmail.com)
+
+
 <!--
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shakur_t) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17201655) 
 -->
