@@ -1,13 +1,52 @@
-### Hey there 👋
 
+
+
+
+<!-- Github Stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakurt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+
+
+### Hi, I'm Shakur but you can call me Shak!
 ![](images/say-hey.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+- 🧑🏻‍💻 Software Engineer as a Vue.js and Node.js Developer.<br />
+- 🌱 I’m currently learning new tools of javascript to use in my projects.<br />
 
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shakur_t) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17201655) 
+
+# 💻 Tech Stack:
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
+
+[![](https://visitcount.itsvg.in/api?id=shakurt&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shakurt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shakurt&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
+
+<!-- ### 🔝 Top Contributed Repo
+ ![](https://github-contributor-stats.vercel.app/api?username=shakurt&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
+
+
+<!-- created with GPRM -->
