@@ -20,11 +20,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanshakurt@gmail.com)
 
-
-<!--
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shakur_t) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17201655) 
--->
-
 # 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82)
@@ -43,7 +38,7 @@
 [![](https://visitcount.itsvg.in/api?id=shakurt&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
-<!-- # 📊 GitHub Stats:
+<-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shakurt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
