@@ -11,14 +11,14 @@
 ![](images/say-hey.jpg)
 
 # 💫 About Me:
-- 🧑🏻‍💻 Software Engineer as a Vue.js and Node.js Developer.<br />
+- 🧑🏻‍💻 Frontend Developer using Vue.js and Nuxt.js Frameworks.<br />
 - 🌱 I’m currently learning new tools of javascript to use in my projects.<br />
 
 
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanshakurt@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakurtousian@gmail.com)
 
 # 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
