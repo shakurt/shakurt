@@ -7,25 +7,31 @@
 -->
 
 
-### Hi, call me Shak :D
+## Call Me "Shak" :D
+![](images/say-hey.jpg)
+
+## 📫 Want to collaborate? Reach me at:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakurtousian@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakurt/)
-![](images/say-hey.jpg)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/605522203580301312)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theprimeshak)
+
 
 <!--
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)
  -->
 
-
+<!--
 # 💫 About Me:
 - 🧑🏻‍💻 Frontend Developer using Vue.js and Nuxt.js Frameworks.<br />
 - 🌱 I’m currently learning new tools of javascript to use in my projects.<br />
+-->
 
 
-
-
+<!--
 # 💻 Tech Stack:
+
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
@@ -39,6 +45,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
+-->
 
 <!--
 # 📊 GitHub Stats:
