@@ -10,16 +10,17 @@
 ### Hi, call me Shak :D
 ![](images/say-hey.jpg)
 
+## 🌐 Socials:
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)-->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakurtousian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakurt/)
+
 # 💫 About Me:
 - 🧑🏻‍💻 Frontend Developer using Vue.js and Nuxt.js Frameworks.<br />
 - 🌱 I’m currently learning new tools of javascript to use in my projects.<br />
 
 
-## 🌐 Socials:
 
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)-->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakurtousian@gmail.com)
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakurt/)
 
 # 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
@@ -36,18 +37,22 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
 
+<!--
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shakurt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 [![](https://visitcount.itsvg.in/api?id=shakurt&icon=2&color=12)](https://visitcount.itsvg.in)
+-->
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shakurt&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shakurt&theme=radical&no-frame=true&no-bg=true&margin-w=4) 
+-->
 
-<!-- ### 🔝 Top Contributed Repo
- ![](https://github-contributor-stats.vercel.app/api?username=shakurt&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+ ### 🔝 Top Contributed Repo
+ ![](https://github-contributor-stats.vercel.app/api?username=shakurt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
