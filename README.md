@@ -8,12 +8,15 @@
 
 
 ### Hi, call me Shak :D
-![](images/say-hey.jpg)
-
-## 🌐 Socials:
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)-->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakurtousian@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakurt/)
+![](images/say-hey.jpg)
+
+<!--
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shakur_t)
+ -->
+
 
 # 💫 About Me:
 - 🧑🏻‍💻 Frontend Developer using Vue.js and Nuxt.js Frameworks.<br />
@@ -51,9 +54,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=shakurt&theme=radical&no-frame=true&no-bg=true&margin-w=4) 
 -->
 
+<!--
  ### 🔝 Top Contributed Repo
  ![](https://github-contributor-stats.vercel.app/api?username=shakurt&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 
 
 <!-- created with GPRM -->
